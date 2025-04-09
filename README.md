@@ -1,1 +1,1 @@
-# learnt
+# Learn and practice basic sql
